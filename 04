@@ -1,0 +1,14 @@
+//
+- Bat terminal
+- Source Tree -> Quan ly file bang giao dien do hoa
+//Ket noi den github
+mac11:~ ios19$ git clone https://github.com/nguyennamtien1990/ios19.git
+Cloning into 'ios19'...
+remote: Counting objects: 5, done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 5 (delta 0), reused 0 (delta 0)
+Unpacking objects: 100% (5/5), done.
+mac11:~ ios19$
+//Tao ra 1 file moi
+mac11:~ ios19$ touch abc.txt
+mac11:~ ios19$ nano abc.txt
