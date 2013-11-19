@@ -12,3 +12,9 @@ mac11:~ ios19$
 //Tao ra 1 file moi
 mac11:~ ios19$ touch abc.txt
 mac11:~ ios19$ nano abc.txt
+
+
+***** Selector:
+- Mot cach lay ra dia chi cua ham
+--> dung:
+--> sai: null
